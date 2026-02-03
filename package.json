@@ -12,5 +12,15 @@
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
     "nodemon": "^3.1.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfAktar/iu_csi_assignment_1.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ProfAktar/iu_csi_assignment_1/issues"
+  },
+  "homepage": "https://github.com/ProfAktar/iu_csi_assignment_1#readme"
 }
